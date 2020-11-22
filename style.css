@@ -1,0 +1,40 @@
+{
+    font-family: 'Roboto', 
+    sans-serif; 
+}
+
+h3 {
+    margin: 1,75%;
+}
+
+table {
+    border: 2px double #333;
+     border-spacing: 10px 15px;
+    padding: 1,5%;
+}
+
+td {
+    text-align: center;
+    padding: 4px;
+}
+
+.result {
+    font-size: 30px;
+}
+
+#triangle {
+    width: 0;
+    border-bottom: 160px solid #F40F25;
+    border-right: 150px solid transparent;  
+}
+
+#calculate {
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    border: 3px solid #17BB0F;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    padding: 10px 16px;
+}
+
